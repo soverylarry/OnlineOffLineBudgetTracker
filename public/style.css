@@ -5,7 +5,8 @@
 body {
   font-size: 16px;
   font-family: Arial;
-  background-color: #F7FAFC;
+  background-image: url("/img/banker.jpg");
+  background-size: 80%;
 }
 
 button,
@@ -32,7 +33,7 @@ input:focus {
 }
 
 button {
-  background: #8A33FE;
+  background: #06a30e;
   border: none;
   border-radius: 4px;
   cursor: pointer;
