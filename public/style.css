@@ -5,8 +5,7 @@
 body {
   font-size: 16px;
   font-family: Arial;
-  background-image: url("/img/banker.jpg");
-  background-size: 80%;
+  background-color: lightgoldenrodyellow;
 }
 
 button,
