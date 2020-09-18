@@ -5,7 +5,8 @@
 body {
   font-size: 16px;
   font-family: Arial;
-  background-color: lightgoldenrodyellow;
+  background-image: url(/img/ledger.jpg);
+  background-size: cover;
 }
 
 button,
@@ -38,7 +39,7 @@ button {
   cursor: pointer;
   color: #FFFFFF;
   padding: 10px;
-  box-shadow: inset 0 -3px 0 0 #4801A5;
+  box-shadow: inset 0 -3px 0 0 #0f041d;
 }
 
 button:active {
@@ -61,14 +62,17 @@ table {
 }
 
 .total {
+  background-color: mistyrose;
   font-size: 150%;
 }
 
 form {
+  background-color: linen;
   margin-top: 25px;
 }
 
 .transactions {
+  background-color: lightgoldenrodyellow;
   text-align: left;
   max-height: 300px;
   overflow: auto;
@@ -78,4 +82,8 @@ form {
 
 .transaction-buttons {
   margin-top: 25px;
+}
+
+.canvasBackground {
+  background-color: rgb(238, 210, 238);
 }
