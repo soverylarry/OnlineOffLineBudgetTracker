@@ -19,7 +19,7 @@ Acceptance Criteria.
 
 ### Usage:   (alternately: Enter 'node server.js' to initiate app at localhost:3000 if you are running locally from the command line.)
 
-<img src="https://github.com/soverylarry/OnlineOffLineBudgetTracker/blob/master/public/img/bankingApp.PNG">
+<img src="https://github.com/soverylarry/OnlineOffLineBudgetTracker/blob/master/public/img/bankappsnap.PNG">
 
 ### Licenses: MIT
 ### Contributors:         Developer, tutor and TA.
